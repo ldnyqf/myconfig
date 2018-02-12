@@ -1,4 +1,1 @@
-server:
-  prot: 8001
-url:
-  myurl: 10.135.80.61
+foo = foo version 3
